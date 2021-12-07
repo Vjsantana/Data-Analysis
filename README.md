@@ -1,3 +1,3 @@
 # Data-Analysis
- data_analysis: Repository prepared for Analysis in several datas.
+ data_analysis: Repository prepared for Analysis in several datas by Valmir Santana.
 
